@@ -1,0 +1,15 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A CLI tool to generate a professional README file using Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Simranjot Singh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
